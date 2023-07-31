@@ -1,4 +1,4 @@
-# Vue 3 + sheetJS + xlse-js-style + Vite
+# Vue 3 + sheetJS + xlsx-js-style + Vite
 
 ### 1. 安装依赖
 
